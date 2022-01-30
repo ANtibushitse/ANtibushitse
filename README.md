@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on My Portfolio
+- 🔭 I’m currently working on My very first deployement 
 - 🌱 I’m currently learning WebDev at @SimplonLabège
 - 🤔 I am looking for an internship of 3 months from May 16th to August 28th 
 - 💬 Ask me about anything
